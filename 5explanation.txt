@@ -1,0 +1,10 @@
+After working through this R assignment, it was clear that to make sure there are no huge
+issues in between commands, we need to run every line separately in the R script. It is a nice work
+space to be able to practice on and if there is a problem, all you have to do is go to that
+area and type in the correction, without having to start a whole new line or command. 
+The fixed version of the code is right because all of the lines work separetly and also piped into
+the next commands. The data expressed at the end when viewed matched what the finished product
+should have looked like. If there were 1000s of lines of data, this process of checking each
+individual line would be a bit tedious, but it does mark which lines are incorrect if there
+is an issue with running the code. I am sure there are faster ways of cleaning up the data and 
+double checking it.
